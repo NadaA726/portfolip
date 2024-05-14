@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.661424c3.css",
+    "main.js": "/static/js/main.0b7063d4.js",
+    "static/js/453.be15202d.chunk.js": "/static/js/453.be15202d.chunk.js",
+    "static/media/pexels-eberhardgross-2088205.jpg": "/static/media/pexels-eberhardgross-2088205.ae75961ca1cdd0c647ce.jpg",
+    "index.html": "/index.html",
+    "main.661424c3.css.map": "/static/css/main.661424c3.css.map",
+    "main.0b7063d4.js.map": "/static/js/main.0b7063d4.js.map",
+    "453.be15202d.chunk.js.map": "/static/js/453.be15202d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.661424c3.css",
+    "static/js/main.0b7063d4.js"
+  ]
+}
